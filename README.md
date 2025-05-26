@@ -1,4 +1,4 @@
-# 🎮 Amazon Q Developer CLI: Platformer Game MVP
+# 🎮 Amazon Q Developer CLI: Platformer Game
 
 This project demonstrates the power of **Amazon Q Developer CLI** by building a simple yet functional **2D platformer game** using **Python** and **Pygame** — all from a single prompt!
 
@@ -19,7 +19,6 @@ Even without any prior game development experience, this game was generated as a
 - **Enemies/Obstacles** that reduce player lives
 - **Score and Life Tracking** on the screen
 - **Restart Functionality** with a full gameplay loop
-- Uses basic sprites and a colorful background (MVP visuals)
 
 ---
 
@@ -35,6 +34,15 @@ pip install pygame
 ```
 
 ---
+
+## How to Run
+
+- Clone the repo and open the folder through a CLI.
+- Run the python file with this Command
+
+```bash
+python enhanced_platformer_game.py
+```
 
 ## Notes
 This is just a starting point — the MVP of the game.
