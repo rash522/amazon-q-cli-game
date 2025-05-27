@@ -9,6 +9,7 @@ Even without any prior game development experience, this game was generated as a
 ## Prompts Used to Build the Game
 
 > *"Create a clean, well-structured 2D platformer game using Python and Pygame. Include a player with gravity, jumping, and platform collision. Add coins for score, enemies that reduce lives, and show score/lives on screen. Use colorful graphics with simple sprites, smooth movement, and a full gameplay loop (start, game over, restart). Keep the visuals appealing and gameplay smooth."*
+---
 > *"Can you make the game more interactive and engaging with properly working functions? Also, make sure to use sprites instead of just colored shapes. Add a controls guide to the menu along with fully functional Start Game and Quit buttons. Once the character collects all the coins in a level, move to the next round with a different background and increased difficulty. Improve the overall UI/UX using high-quality sprites and intuitive gestures."*
 
 ---
