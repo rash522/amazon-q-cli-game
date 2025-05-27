@@ -43,7 +43,7 @@ pip install pygame
 - Run the python file with this Command
 
 ```bash
-python enhanced_platformer_game.py
+python platformer_game.py
 ```
 
 ## Notes
